@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/po-deal-site/static/css/main.5eeb936f.css",
+    "main.css": "/po-deal-site/static/css/main.8abfbe7f.css",
     "main.js": "/po-deal-site/static/js/main.e34c4954.js",
     "static/media/layerGraine.png": "/po-deal-site/static/media/layerGraine.fdefdc4058b500edd969.png",
     "static/media/programBG.png": "/po-deal-site/static/media/programBG.d379f8fa667455cffb4e.png",
@@ -17,11 +17,11 @@
     "index.html": "/po-deal-site/index.html",
     "static/media/link-arrow.svg": "/po-deal-site/static/media/link-arrow.b7e2ea52d84d2b5d410d2afe1954e326.svg",
     "static/media/burger.svg": "/po-deal-site/static/media/burger.7b5c477476e4801d944fd0735680c66e.svg",
-    "main.5eeb936f.css.map": "/po-deal-site/static/css/main.5eeb936f.css.map",
+    "main.8abfbe7f.css.map": "/po-deal-site/static/css/main.8abfbe7f.css.map",
     "main.e34c4954.js.map": "/po-deal-site/static/js/main.e34c4954.js.map"
   },
   "entrypoints": [
-    "static/css/main.5eeb936f.css",
+    "static/css/main.8abfbe7f.css",
     "static/js/main.e34c4954.js"
   ]
 }
