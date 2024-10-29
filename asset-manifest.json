@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/po-deal-site/static/css/main.8abfbe7f.css",
-    "main.js": "/po-deal-site/static/js/main.ce4a0000.js",
+    "main.css": "/po-deal-site/static/css/main.7d239c48.css",
+    "main.js": "/po-deal-site/static/js/main.fb4aa440.js",
     "static/media/layerGraine.png": "/po-deal-site/static/media/layerGraine.fdefdc4058b500edd969.png",
     "static/media/programBG.png": "/po-deal-site/static/media/programBG.d379f8fa667455cffb4e.png",
     "static/media/teamRight.png": "/po-deal-site/static/media/teamRight.36ea4a4ed477dc3ae82b.png",
@@ -9,6 +9,7 @@
     "static/media/teamLeft.png": "/po-deal-site/static/media/teamLeft.08f14115bd06391ceee7.png",
     "static/media/Gilroy-Thin.ttf": "/po-deal-site/static/media/Gilroy-Thin.fc813b757bc09eb509dc.ttf",
     "static/media/Gilroy-Medium.ttf": "/po-deal-site/static/media/Gilroy-Medium.1c23f810e531d0702f76.ttf",
+    "static/media/Gilroy-Regular.ttf": "/po-deal-site/static/media/Gilroy-Regular.fa652e766b6a85a1f9cb.ttf",
     "static/media/main-screen.jpg": "/po-deal-site/static/media/main-screen.9b24a83a5d5c4d1487fd.jpg",
     "static/media/Gilroy-Light.otf": "/po-deal-site/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
     "static/media/DealLogo.svg": "/po-deal-site/static/media/DealLogo.1d106493cedf26618f6372e436bf5b00.svg",
@@ -17,11 +18,11 @@
     "index.html": "/po-deal-site/index.html",
     "static/media/link-arrow.svg": "/po-deal-site/static/media/link-arrow.b7e2ea52d84d2b5d410d2afe1954e326.svg",
     "static/media/burger.svg": "/po-deal-site/static/media/burger.7b5c477476e4801d944fd0735680c66e.svg",
-    "main.8abfbe7f.css.map": "/po-deal-site/static/css/main.8abfbe7f.css.map",
-    "main.ce4a0000.js.map": "/po-deal-site/static/js/main.ce4a0000.js.map"
+    "main.7d239c48.css.map": "/po-deal-site/static/css/main.7d239c48.css.map",
+    "main.fb4aa440.js.map": "/po-deal-site/static/js/main.fb4aa440.js.map"
   },
   "entrypoints": [
-    "static/css/main.8abfbe7f.css",
-    "static/js/main.ce4a0000.js"
+    "static/css/main.7d239c48.css",
+    "static/js/main.fb4aa440.js"
   ]
 }
