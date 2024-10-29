@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/po-deal-site/static/css/main.948e5c02.css",
+    "main.css": "/po-deal-site/static/css/main.715b7d86.css",
     "main.js": "/po-deal-site/static/js/main.350606f8.js",
     "static/media/layerGraine.png": "/po-deal-site/static/media/layerGraine.fdefdc4058b500edd969.png",
     "static/media/programBG.png": "/po-deal-site/static/media/programBG.d379f8fa667455cffb4e.png",
@@ -11,18 +11,26 @@
     "static/media/Gilroy-Medium.ttf": "/po-deal-site/static/media/Gilroy-Medium.1c23f810e531d0702f76.ttf",
     "static/media/Gilroy-Regular.ttf": "/po-deal-site/static/media/Gilroy-Regular.fa652e766b6a85a1f9cb.ttf",
     "static/media/main-screen.jpg": "/po-deal-site/static/media/main-screen.9b24a83a5d5c4d1487fd.jpg",
+    "static/media/Gilroy-Medium.woff": "/po-deal-site/static/media/Gilroy-Medium.684052b1d35d5e2609d1.woff",
+    "static/media/Gilroy-Thin.woff": "/po-deal-site/static/media/Gilroy-Thin.18c177374437fed7c8cb.woff",
     "static/media/Gilroy-Light.otf": "/po-deal-site/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "static/media/Gilroy-Medium.woff2": "/po-deal-site/static/media/Gilroy-Medium.6d4fe92108fabc331d2b.woff2",
+    "static/media/Gilroy-Thin.woff2": "/po-deal-site/static/media/Gilroy-Thin.7015aaafe7153b48f8a6.woff2",
+    "static/media/Gilroy-Light.woff": "/po-deal-site/static/media/Gilroy-Light.a4db794b66592cfe3735.woff",
+    "static/media/Gilroy-Regular.woff": "/po-deal-site/static/media/Gilroy-Regular.5a3f7bf1a36d8d171f55.woff",
+    "static/media/Gilroy-Light.woff2": "/po-deal-site/static/media/Gilroy-Light.87cbc692715c691daa2f.woff2",
+    "static/media/Gilroy-Regular.woff2": "/po-deal-site/static/media/Gilroy-Regular.c61e4fb91b34b947703c.woff2",
     "static/media/DealLogo.svg": "/po-deal-site/static/media/DealLogo.1d106493cedf26618f6372e436bf5b00.svg",
     "static/media/arrow.svg": "/po-deal-site/static/media/arrow.a171713e98bc19459e6d94793ceeb274.svg",
-    "static/media/close.svg": "/po-deal-site/static/media/close.981a0d258a11ce3e1eb8f68352899906.svg",
     "index.html": "/po-deal-site/index.html",
+    "static/media/close.svg": "/po-deal-site/static/media/close.981a0d258a11ce3e1eb8f68352899906.svg",
     "static/media/link-arrow.svg": "/po-deal-site/static/media/link-arrow.b7e2ea52d84d2b5d410d2afe1954e326.svg",
     "static/media/burger.svg": "/po-deal-site/static/media/burger.7b5c477476e4801d944fd0735680c66e.svg",
-    "main.948e5c02.css.map": "/po-deal-site/static/css/main.948e5c02.css.map",
+    "main.715b7d86.css.map": "/po-deal-site/static/css/main.715b7d86.css.map",
     "main.350606f8.js.map": "/po-deal-site/static/js/main.350606f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.948e5c02.css",
+    "static/css/main.715b7d86.css",
     "static/js/main.350606f8.js"
   ]
 }
