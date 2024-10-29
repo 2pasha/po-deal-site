@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/po-deal-site/static/css/main.669d39f3.css",
-    "main.js": "/po-deal-site/static/js/main.8463b16a.js",
+    "main.css": "/po-deal-site/static/css/main.2f9e5732.css",
+    "main.js": "/po-deal-site/static/js/main.f00498b9.js",
     "static/media/layerGraine.png": "/po-deal-site/static/media/layerGraine.fdefdc4058b500edd969.png",
     "static/media/programBG.png": "/po-deal-site/static/media/programBG.d379f8fa667455cffb4e.png",
     "static/media/teamRight.png": "/po-deal-site/static/media/teamRight.36ea4a4ed477dc3ae82b.png",
+    "static/media/programBGmob.png": "/po-deal-site/static/media/programBGmob.982f944ec008a5150bc8.png",
     "static/media/teamLeft.png": "/po-deal-site/static/media/teamLeft.08f14115bd06391ceee7.png",
     "static/media/Gilroy-Thin.ttf": "/po-deal-site/static/media/Gilroy-Thin.fc813b757bc09eb509dc.ttf",
     "static/media/Gilroy-Medium.ttf": "/po-deal-site/static/media/Gilroy-Medium.1c23f810e531d0702f76.ttf",
@@ -16,11 +17,11 @@
     "index.html": "/po-deal-site/index.html",
     "static/media/link-arrow.svg": "/po-deal-site/static/media/link-arrow.b7e2ea52d84d2b5d410d2afe1954e326.svg",
     "static/media/burger.svg": "/po-deal-site/static/media/burger.7b5c477476e4801d944fd0735680c66e.svg",
-    "main.669d39f3.css.map": "/po-deal-site/static/css/main.669d39f3.css.map",
-    "main.8463b16a.js.map": "/po-deal-site/static/js/main.8463b16a.js.map"
+    "main.2f9e5732.css.map": "/po-deal-site/static/css/main.2f9e5732.css.map",
+    "main.f00498b9.js.map": "/po-deal-site/static/js/main.f00498b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.669d39f3.css",
-    "static/js/main.8463b16a.js"
+    "static/css/main.2f9e5732.css",
+    "static/js/main.f00498b9.js"
   ]
 }
